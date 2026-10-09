@@ -1,0 +1,16 @@
+{
+  "name": "smartvisaai-public",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Portfolio showcase for SmartVisaAI, a visa-guidance product in development.",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.3"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
